@@ -1,4 +1,4 @@
-package org.uno.com;
+package org.uno-ui.com;
 
 /**
  * Hello world!

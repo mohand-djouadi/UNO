@@ -1,4 +1,4 @@
-package org.uno.com;
+package org.uno-model.com;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
